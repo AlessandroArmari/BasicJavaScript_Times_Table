@@ -1,8 +1,8 @@
-The first function prints time tables from 1 to 10 sequencely. 
+The first function prints times tables from 1 to 10 sequencely. 
 
-The second function prints a custom time table.
+The second function prints a custom times table.
 
-I give 4 parameters to the function so I can decide which time table display and the multipliers I want to be shown.
+I give 4 parameters to the function so I can decide which times table display and the multipliers I want to be shown.
 
 I give 4 parameteres to the function
 

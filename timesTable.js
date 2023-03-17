@@ -20,7 +20,7 @@ timesTableUntil: which time table we want the sequence to end at
 multiplyFrom:  the multiplier we want each time table to start from
 multiplyUntil: the multiplier we want each time table to ends at
 
-So we can choose wich time table and multiplier to print and see on console! 
+So we can choose wich times table and multiplier to print and see on console! 
 */
 
 function timesTablesInArray(
